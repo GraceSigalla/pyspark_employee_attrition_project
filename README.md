@@ -1,6 +1,4 @@
-# pyspark_employee_attrition_project
-
-Employee Retention
+# PySpark Employee Attrition
 
 ## Introduction
 Employee attrition, also known as voluntary turnover, is a big problem for employers since it affects long-term growth goals in addition to productivity and work sustainability. The cost of replacing a person may easily reach a significant amount when we take into account the time required to interview and find a replacement, placement fees, sign-on incentives, and the loss of productivity for several months. Understanding why and when workers are most likely to depart can help you take steps to enhance retention and plan ahead for future hires. People analytics or people data science are terms used to describe this type of data science application. People analytics helps companies, and their human resource (HR) professionals minimize attrition by transforming the way they recruit and retain talent in the age of data science and big data analytics.
